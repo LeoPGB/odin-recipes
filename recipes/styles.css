@@ -1,0 +1,16 @@
+body{
+  background-color: #444444;
+  color: #ffffff;
+}
+h1, h3{
+  text-align: center;
+}
+img{
+  height: 50vh;
+  width: auto;
+  margin: auto;
+  display: block;
+}
+a:visited{
+  color:green;
+}
